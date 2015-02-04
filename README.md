@@ -1,4 +1,4 @@
-CS171 2015 Homework Assignments
+^^^^^^^^^^^^^CS171 2015 Homework Assignments
 ===
 
 Homework assignments for Harvard's [CS171](http://www.cs171.org/2015/index.html) 2015. To receive homework updates on your local machine run:
@@ -13,3 +13,5 @@ For details on how to submit your work, take a look at [Section 1](https://githu
 **Name**:Yi Mao 
 
 **Email**:yim833@mail.harvard.edu
+
+
